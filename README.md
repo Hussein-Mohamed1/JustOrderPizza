@@ -2,6 +2,9 @@
 
 A modern, fast pizza ordering application built with React, Redux Toolkit, and React Router. Order delicious pizzas with a smooth, responsive user experience.
 
+👉 **Demo:** [https://just-order-pizza.vercel.app/](https://just-order-pizza.vercel.app/)
+
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -77,3 +80,6 @@ The application is fully responsive and optimized for:
 - **Icons**: Consistent iconography using Lucide React
 
 
+---
+
+✨ **Made by Hussein Mohamed**
