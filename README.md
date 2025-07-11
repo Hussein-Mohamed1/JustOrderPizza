@@ -2,6 +2,9 @@
 
 A modern, fast pizza ordering application built with React, Redux Toolkit, and React Router. Order delicious pizzas with a smooth, responsive user experience.
 
+👉 **Demo:** [https://just-order-pizza.vercel.app/](https://just-order-pizza.vercel.app/)
+
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -16,33 +19,6 @@ A modern, fast pizza ordering application built with React, Redux Toolkit, and R
 - **Order Tracking**: Track your order status and estimated delivery time
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
 - **Real-time Updates**: Live cart overview and order status updates
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (version 16 or higher)
-- npm or yarn package manager
-
-### Installation
-
-1. Clone the repository:
-\`\`\`bash
-git clone https://github.com/yourusername/justorderpizza.git
-cd justorderpizza
-\`\`\`
-
-2. Install dependencies:
-\`\`\`bash
-npm install
-\`\`\`
-
-3. Start the development server:
-\`\`\`bash
-npm run dev
-\`\`\`
-
-4. Open your browser and navigate to \`http://localhost:5173\`
 
 ## 🛠️ Built With
 
@@ -104,3 +80,6 @@ The application is fully responsive and optimized for:
 - **Icons**: Consistent iconography using Lucide React
 
 
+---
+
+✨ **Made by Hussein Mohamed**
