@@ -128,7 +128,7 @@ function CreateOrder() {
           <input type="hidden" name="cart" value={JSON.stringify(cart)} />
 
           <button
-            disabled={isSubmitting}
+            disabled={isSubmitting || isLoadingAddress}
             className={`w-full transform rounded-lg px-6 py-4 font-bold shadow-md transition-all duration-200 hover:scale-105 hover:shadow-lg ${
               isSubmitting
                 ? "cursor-not-allowed bg-gray-400"
