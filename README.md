@@ -17,33 +17,6 @@ A modern, fast pizza ordering application built with React, Redux Toolkit, and R
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
 - **Real-time Updates**: Live cart overview and order status updates
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (version 16 or higher)
-- npm or yarn package manager
-
-### Installation
-
-1. Clone the repository:
-\`\`\`bash
-git clone https://github.com/yourusername/justorderpizza.git
-cd justorderpizza
-\`\`\`
-
-2. Install dependencies:
-\`\`\`bash
-npm install
-\`\`\`
-
-3. Start the development server:
-\`\`\`bash
-npm run dev
-\`\`\`
-
-4. Open your browser and navigate to \`http://localhost:5173\`
-
 ## 🛠️ Built With
 
 - **[React](https://reactjs.org/)** - Frontend library for building user interfaces
